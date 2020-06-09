@@ -19,18 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "The Hong Kong Polytechnic University"
+  company = "Hong Kong Polytechnic University"
   company_url = "https://www4.comp.polyu.edu.hk/~cswjli/"
   location = "Hong Kong"
   date_start = "2020-02-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Research Intern"
@@ -39,6 +32,12 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2019-06-30"
   date_end = "2019-12-01"
-  description = """Doing some research about query-aware tip generation."""
 
+[[experience]]
+  title = "Research Intern"
+  company = "Peking University"
+  company_url = "http://lanco.pku.edu.cn/"
+  location = "China"
+  date_start = "2018-10-01"
+  date_end = "2019-05-01"
 +++

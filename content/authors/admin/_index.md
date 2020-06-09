@@ -24,7 +24,6 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-
 education:
   courses:
   - course: Master in Computer Science 
@@ -66,5 +65,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Zili Wang is a research assistant at the The Hong Kong Polytechnic University.
+Zili Wang is now a research assistant in Computer Science Department, The Hong Kong Polytechnic University. His research interests include machine learning and natural language processing, particularly in text summarization, text style transfer and story generation.
 
+Zili Wang received B.E. degree  XiDian University University in 2018. He was an intern knowledge graph group of Meituan-Dianping and Peking University.
