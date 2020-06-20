@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Meituan-Dianping Knowledge Graph Group`"
+  company = "Meituan-Dianping Knowledge Graph Group"
   company_url = "https://about.meituan.com/en"
   location = "China"
   date_start = "2019-06-30"
